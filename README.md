@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/virushere/LeetCode-Python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/virushere/LeetCode-Python/tree/master/3379-score-of-a-string) |
+# Enumeration
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/virushere/LeetCode-Python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
