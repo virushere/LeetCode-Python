@@ -11,3 +11,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/virushere/LeetCode-Python/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+<!---LeetCode Topics End-->
