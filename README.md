@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/virushere/LeetCode-Python/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/virushere/LeetCode-Python/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
