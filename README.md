@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/virushere/LeetCode-Python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/virushere/LeetCode-Python/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/virushere/LeetCode-Python/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/virushere/LeetCode-Python/tree/master/0812-rotate-string) |
 ## String Matching
@@ -55,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
