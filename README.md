@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/virushere/LeetCode-Python/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -62,4 +65,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
