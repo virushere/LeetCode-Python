@@ -4,6 +4,7 @@ class Solution:
         # Output: [2,3]
         
         ## Solution 1 with time complexity O(nlogn)
+        """ 
         frequency_map = defaultdict(int)
         for num in nums:
             frequency_map[num] += 1
@@ -11,9 +12,8 @@ class Solution:
                         key=lambda x: frequency_map[x], 
                         reverse=True)
         return sorted_list[:k]
-
-        ## Solution 2 with Time complexity O(n)
         """ 
+        ## Solution 2 with Time complexity O(n)
         count = {}
         freq = [[] for i in range(len(nums) + 1)]
 
@@ -28,4 +28,3 @@ class Solution:
                 res.append(n)
                 if len(res) == k:
                     return res 
-        """
