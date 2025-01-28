@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/virushere/LeetCode-Python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/virushere/LeetCode-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -117,4 +120,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/virushere/LeetCode-Python/tree/master/0136-single-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
