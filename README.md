@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/virushere/LeetCode-Python/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0866-rectangle-overlap](https://github.com/virushere/LeetCode-Python/tree/master/0866-rectangle-overlap) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/virushere/LeetCode-Python/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
