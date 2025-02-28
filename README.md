@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/virushere/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/virushere/LeetCode-Python/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/virushere/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
