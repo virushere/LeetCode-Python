@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/virushere/LeetCode-Python/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
+| [0907-koko-eating-bananas](https://github.com/virushere/LeetCode-Python/tree/master/0907-koko-eating-bananas) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/virushere/LeetCode-Python/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
@@ -197,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/virushere/LeetCode-Python/tree/master/0907-koko-eating-bananas) |
 | [2665-minimum-time-to-repair-cars](https://github.com/virushere/LeetCode-Python/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
