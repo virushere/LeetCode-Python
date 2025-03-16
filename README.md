@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/virushere/LeetCode-Python/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
@@ -194,10 +195,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/virushere/LeetCode-Python/tree/master/0113-path-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/virushere/LeetCode-Python/tree/master/0907-koko-eating-bananas) |
 | [2665-minimum-time-to-repair-cars](https://github.com/virushere/LeetCode-Python/tree/master/2665-minimum-time-to-repair-cars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
