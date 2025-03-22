@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/virushere/LeetCode-Python/tree/master/0907-koko-eating-bananas) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2665-minimum-time-to-repair-cars](https://github.com/virushere/LeetCode-Python/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -217,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/virushere/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/virushere/LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
