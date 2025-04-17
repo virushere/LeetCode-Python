@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/virushere/LeetCode-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/virushere/LeetCode-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/virushere/LeetCode-Python/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/virushere/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/virushere/LeetCode-Python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/virushere/LeetCode-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/virushere/LeetCode-Python/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/virushere/LeetCode-Python/tree/master/0055-jump-game) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/virushere/LeetCode-Python/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Simulation
 |  |
