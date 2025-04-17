@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/virushere/LeetCode-Python/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/virushere/LeetCode-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/virushere/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/virushere/LeetCode-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/virushere/LeetCode-Python/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/virushere/LeetCode-Python/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/virushere/LeetCode-Python/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/virushere/LeetCode-Python/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
