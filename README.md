@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/virushere/LeetCode-Python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/virushere/LeetCode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/virushere/LeetCode-Python/tree/master/0812-rotate-string) |
 ## String Matching
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/virushere/LeetCode-Python/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/virushere/LeetCode-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/virushere/LeetCode-Python/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/virushere/LeetCode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
