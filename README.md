@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/virushere/LeetCode-Python/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/virushere/LeetCode-Python/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/virushere/LeetCode-Python/tree/master/0238-product-of-array-except-self) |
+| [0271-encode-and-decode-strings](https://github.com/virushere/LeetCode-Python/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/virushere/LeetCode-Python/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
 | [0907-koko-eating-bananas](https://github.com/virushere/LeetCode-Python/tree/master/0907-koko-eating-bananas) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/virushere/LeetCode-Python/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/virushere/LeetCode-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/virushere/LeetCode-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0648-replace-words](https://github.com/virushere/LeetCode-Python/tree/master/0648-replace-words) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/virushere/LeetCode-Python/tree/master/0155-min-stack) |
+| [0271-encode-and-decode-strings](https://github.com/virushere/LeetCode-Python/tree/master/0271-encode-and-decode-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
