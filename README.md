@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/virushere/LeetCode-Python/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/virushere/LeetCode-Python/tree/master/0224-basic-calculator) |
 | [0866-rectangle-overlap](https://github.com/virushere/LeetCode-Python/tree/master/0866-rectangle-overlap) |
 | [1635-number-of-good-pairs](https://github.com/virushere/LeetCode-Python/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/virushere/LeetCode-Python/tree/master/0049-group-anagrams) |
+| [0224-basic-calculator](https://github.com/virushere/LeetCode-Python/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/virushere/LeetCode-Python/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/virushere/LeetCode-Python/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/virushere/LeetCode-Python/tree/master/0344-reverse-string) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/virushere/LeetCode-Python/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/virushere/LeetCode-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/virushere/LeetCode-Python/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/virushere/LeetCode-Python/tree/master/0224-basic-calculator) |
 ## Design
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/virushere/LeetCode-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/virushere/LeetCode-Python/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/virushere/LeetCode-Python/tree/master/0224-basic-calculator) |
 ## Backtracking
 |  |
 | ------- |
